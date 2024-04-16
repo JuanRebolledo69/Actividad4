@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background-color: rgb(37, 37, 37);
 }
 
 .img-container{
@@ -12,3 +12,23 @@ body{
     width: 100%;
     height: auto;
 } 
+
+.logo{
+    font-weight: bold;
+
+}
+
+.titulos {
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    margin: 300px;
+    padding: 30px;
+    background-color: rgba(201, 201, 201, 0.3);
+
+}
+
+.desc-imagen{
+    font-size: 20px;
+    color: white;
+}
