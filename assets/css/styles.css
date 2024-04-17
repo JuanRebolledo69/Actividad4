@@ -13,11 +13,6 @@ body{
     height: auto;
 } 
 
-.logo{
-    font-weight: bold;
-
-}
-
 .titulos {
     font-size: 60px;
     color: white;
@@ -31,4 +26,28 @@ body{
 .desc-imagen{
     font-size: 20px;
     color: white;
+}
+
+.quienes-somos-title{
+    font-size: 70px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.quienes-somos-desc {
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 80%;
+    padding: 40px;
+    background-color: rgba(201, 201, 201, 0.1);
 }
